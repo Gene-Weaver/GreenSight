@@ -33,11 +33,11 @@ For more information about virtual environments, please see [Creation of virtual
 1. Still inside the GreenSight directory, show that a venv is currently not active 
     <pre><code class="language-python">python --version</code></pre>
     <button class="btn" data-clipboard-target="#code-snippet"></button>
-2. Then create the virtual environment (venv_VVE is the name of our new virtual environment)  
-    <pre><code class="language-python">python3 -m venv venv_VVE --copies</code></pre>
+2. Then create the virtual environment (venv_GS is the name of our new virtual environment)  
+    <pre><code class="language-python">python3 -m venv venv_GS --copies</code></pre>
     <button class="btn" data-clipboard-target="#code-snippet"></button>
 3. Activate the virtual environment  
-    <pre><code class="language-python">.\venv_VVE\Scripts\activate</code></pre>
+    <pre><code class="language-python">.\venv_GS\Scripts\activate</code></pre>
     <button class="btn" data-clipboard-target="#code-snippet"></button>
 4. Confirm that the venv is active (should be different from step 1)  
     <pre><code class="language-python">python --version</code></pre>
