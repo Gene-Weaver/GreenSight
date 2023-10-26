@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+<<<<<<< HEAD
+=======
+demo_out/
+
+>>>>>>> master
 # Distribution / packaging
 .Python
 build/
@@ -124,6 +129,10 @@ celerybeat.pid
 .venv
 env/
 venv/
+<<<<<<< HEAD
+=======
+venv_GS/
+>>>>>>> master
 ENV/
 env.bak/
 venv.bak/
