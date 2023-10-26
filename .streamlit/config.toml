@@ -1,0 +1,8 @@
+[theme]
+    base = "dark"
+    primaryColor = "#00ff00"
+
+    [server]
+    enableStaticServing = false
+    runOnSave = true
+    port = 8519
